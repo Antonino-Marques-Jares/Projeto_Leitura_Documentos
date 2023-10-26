@@ -28,11 +28,11 @@
 ## D) N-Grams
 1) Definir o número de GRAMS
 
-## E) STOPWORDS
+## E) StopWords
 1) Retirar palavras não relevantes ao treinamento de máquina
 
-## F) STEMMING E LEMMATIZATION
+## F) Stemming e Lemmatization
 
-## BAG OF WORDS
+## G) Bag of Words
 
 
