@@ -6,7 +6,9 @@
 
 ## A) Etapas do pré-processamento ##
 
-1) Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha csv. A planilha terá as seguintes colunas iniciais ACORDAO e CONTEUDO.
+1) Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha csv.
+
+   A planilha terá as seguintes colunas iniciais ACORDAO e CONTEUDO.
    
    No primeiro momento não poderemos pegaro o número do Acórdão, para isso devemos eliminar textos iniciais do conteúdo. Na coluna ACORDAO será colocado um número sequnêncial para verificar
    se todos os arquivos foram lidos e adicionados na planilha.
