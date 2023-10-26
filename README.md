@@ -4,7 +4,7 @@
 >*OBJETIVO:* Fazer a leitura de Acórdãos do TCE/AC todos já publicados, extrair destes Acórdãos informações relativas a numero do acórdão, data do julgamento, regularidade, ressalva e irregularidade.
 
 
-## A) Etapas do pré-processamento ##
+## A) Etapas do pré-processamento - utilizaremos Python , PANDAS, Expressão Regular##
 
 1) Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha csv.
 
