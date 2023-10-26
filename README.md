@@ -17,5 +17,22 @@
 3) Fazer a leitura do csv que foi criado na etapa anterior e retirar NAN'S - utilizando o dataset do PANDAS  
 4) Fazer a leitura do csv anterior e retirar texto inicial e final que não será objeto do estudo
 5) Fazer a leitura do csv anterior e pegar o número do acórdão para colocar na coluna "acordao" da planilha
-6) ... 
+6) Deixar na coluna CONTEUDO o texto excencial
+
+## B) Tokenização
+1) dividir em palavras remover pontuação e caracteres especiais
+
+## C) Normalização
+1) Letras Minusculas
+
+## D) N-Grams
+1) Definir o número de GRAMS
+
+## E) STOPWORDS
+1) Retirar palavras não relevantes ao treinamento de máquina
+
+## F) STEMMING E LEMMATIZATION
+
+## BAG OF WORDS
+
 
