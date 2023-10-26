@@ -4,10 +4,10 @@ Projeto final para o curso "Business Intelligence e Ciência de Dados" disponibi
 >OBJETIVO: Fazer a leitura de Acórdãos do TCE/AC todos já publicados, extrair destes Acórdãos informações relativas a numero do acórdão, data do julgamento, regularidade, ressalva e irregularidade.
 
 
-## 1) ETAPAS DO PRÉ PROCESSAMENTO 
-#### 1.1) FAZER A LEITURA DOS ACÓRDÃOS QUE ESTÃO EM PDFs E EXPORTAR PARA UMA PLANILHA CSV
-#### 1.2) FAZER A LEITURA DO CSV QUE FOI CRIADO NA ETAPA ANTERIOR E RETIRAR NANs - UTILIZANDO O DATASET DO PANDAS
-#### 1.3) FAZER A LEITURA DO CSV QUE FOI CRIADO NA ETAPA ANTERIOR E RETIRAR TEXTO INICIAL E FINAL QUE NÃO SERÁ OBJETO DO ESTUDO
-#### 1.4) FAZER A LEITURA DO CSV QUE FOI CRIADO NA ETAPA ANTERIOR E PEGAR O NÚMERO DO ACÓRDÃO PARA COLOCAR NA COLUNA ACORDAO DA PLANILHA
+## 1) Etapas do pré-processamento 
+#### 1.1) Fazer a leitura dos Acórdãos que estão em pdfs e *exportar para uma planilha csv*
+#### 1.2) Fazer a leitura do csv que foi criado na etapa anterior e retirar NAN'S - utilizando o dataset do PANDAS
+#### 1.3) Fazer a leitura do csv anterior e *retirar texto inicial e final que não será objeto do estudo*
+#### 1.4) Fazer a leitura do csv anterior e *pegar o número do acórdão para colocar na coluna acordao da planilha*
 #### 1.5) 
 
