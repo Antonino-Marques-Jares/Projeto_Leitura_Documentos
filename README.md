@@ -5,7 +5,7 @@
 
 
 ## 1) Etapas do pré-processamento 
-========
+--------
 ###  1.1) Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha csv
 ###  1.2) Fazer a leitura do csv que foi criado na etapa anterior e retirar NAN'S - utilizando o dataset do PANDAS
 ###  1.3) Fazer a leitura do csv anterior e *retirar texto inicial e final que não será objeto do estudo*
