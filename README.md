@@ -6,7 +6,7 @@
 
 ## A) Etapas do pré-processamento - utilizaremos Python , PANDAS, Expressão Regular ##
 
-1) Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha csv.
+1) Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
 
    A planilha terá as seguintes colunas iniciais ACORDAO e CONTEUDO.
    
@@ -14,9 +14,9 @@
 
    Na coluna ACORDAO será colocado um número sequnêncial para verificar se todos os arquivos foram lidos e adicionados na planilha.
    
-3) Fazer a leitura do csv que foi criado na etapa anterior e retirar NAN'S - utilizando o dataset do PANDAS  
-4) Fazer a leitura do csv anterior e retirar texto inicial e final que não será objeto do estudo
-5) Fazer a leitura do csv anterior e pegar o número do acórdão para colocar na coluna "acordao" da planilha
+3) Fazer a leitura do xls que foi criado na etapa anterior e retirar NAN'S - utilizando o dataset do PANDAS  
+4) Fazer a leitura do xls anterior e retirar texto inicial e final que não será objeto do estudo
+5) Fazer a leitura do xls anterior e pegar o número do acórdão para colocar na coluna "acordao" da planilha
 6) Deixar na coluna CONTEUDO o texto excencial
 
 ## B) Tokenização
