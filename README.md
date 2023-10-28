@@ -8,15 +8,15 @@
 
 1) Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
 
-   A planilha terá as seguintes colunas iniciais ACORDAO e CONTEUDO.
+   A planilha terá as seguintes colunas iniciais INDICE e CONTEUDO.
    
    No primeiro momento não poderemos pegar o número do Acórdão, para isso devemos eliminar textos iniciais do conteúdo.
 
-   Na coluna ACORDAO será colocado um número sequnêncial para verificar se todos os arquivos foram lidos e adicionados na planilha.
+   Depois criaremos a coluna ACÓRDÃO onde colocaremos o número do Acórdão
    
-3) Fazer a leitura do xls que foi criado na etapa anterior e retirar NAN'S - utilizando o dataset do PANDAS  
-4) Fazer a leitura do xls anterior e retirar texto inicial e final que não será objeto do estudo
-5) Fazer a leitura do xls anterior e pegar o número do acórdão para colocar na coluna "acordao" da planilha
+2) Retirar NAN'S - utilizando o dataset do PANDAS  
+4) Retirar texto inicial e final que não será objeto do estudo
+5) Pegar o número do acórdão para colocar na coluna "acordao" da planilha
 6) Deixar na coluna CONTEUDO o texto excencial
 
 ## B) Tokenização
