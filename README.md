@@ -5,10 +5,16 @@
 >
 >Integrantes do Grupo
 >-----------
->\n Antonino Marques Jares
->\n José Coca Carrascosa Neto
->\n Wallison Santos Ferreira
->\n Jamile Santos do Vale
+>
+>Antonino Marques Jares
+>
+>Jamile Santos do Vale
+>
+>José Coca Carrascosa Neto
+>
+>Wallison Santos Ferreira
+>
+
 
 
 ## A) Etapas do pré-processamento - utilizaremos Python , PANDAS, Expressão Regular ##
