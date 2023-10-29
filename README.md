@@ -2,6 +2,13 @@
 >*PROJETO FINAL* para o curso *"Business Intelligence e Ciência de Dados"* disponibilizado em parceria da Escola de Contas do TCE/AC e Universidade Federal da Paraíba - UFPA
 >
 >*OBJETIVO:* Fazer a leitura de Acórdãos do TCE/AC todos já publicados, extrair destes Acórdãos informações relativas a numero do acórdão, data do julgamento, regularidade, ressalva e irregularidade.
+>
+>Integrantes do Grupo
+>-----------
+>Antonino Marques Jares
+>José Coca Carrascosa Neto
+>Wallison Santos Ferreira
+>Jamile Santos do Vale
 
 
 ## A) Etapas do pré-processamento - utilizaremos Python , PANDAS, Expressão Regular ##
