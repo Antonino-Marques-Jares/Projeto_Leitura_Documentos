@@ -6,13 +6,13 @@
 >Integrantes do Grupo
 >-----------
 >
->Antonino Marques Jares
+>Antonino Marques Jares - TCE/AC
 >
->Jamile Santos do Vale
+>Jamile Santos do Vale - TCE/AC
 >
->José Coca Carrascosa Neto
+>José Coca Carrascosa Neto - MP/AC
 >
->Wallison Santos Ferreira
+>Wallison Santos Ferreira - MP/AC
 >
 
 
