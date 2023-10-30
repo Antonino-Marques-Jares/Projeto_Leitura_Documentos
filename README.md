@@ -29,8 +29,9 @@
    
 2) Retirar NAN'S - utilizando o dataset do PANDAS  
 4) Retirar texto inicial e final que não será objeto do estudo
-5) Pegar o número do acórdão para colocar na coluna "acordao" da planilha
-6) Deixar na coluna CONTEUDO o texto excencial
+....
+?) Pegar o número do acórdão para colocar na coluna "acordao" da planilha
+?) Deixar na coluna CONTEUDO o texto excencial
 
 ## B) Tokenização
 1) dividir em palavras remover pontuação e caracteres especiais
