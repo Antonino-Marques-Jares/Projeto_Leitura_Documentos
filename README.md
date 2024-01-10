@@ -1,7 +1,7 @@
 # Projeto_Leitura_Documentos #
 >*PROJETO FINAL* para o curso *"Business Intelligence e Ciência de Dados"* disponibilizado em parceria da Escola de Contas do TCE/AC e Universidade Federal da Paraíba - UFPA
 >
->*OBJETIVO:* Fazer a leitura de Acórdãos do TCE/AC todos já publicados, extrair destes Acórdãos informações relativas a numero do acórdão, data do julgamento. Criar a indexação destes Acórdãos para fazermos consultas nestes Acórdãos.
+>*OBJETIVO:* Fazer a leitura de Acórdãos do TCE/AC todos já publicados, extrair destes Acórdãos informações relativas a número do acórdão, data do julgamento. Criar a indexação destes Acórdãos para fazermos consultas nestes Acórdãos.
 >
 >Integrantes do Grupo
 >-----------
