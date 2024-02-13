@@ -5,7 +5,7 @@
 >* Fazer a leitura de Acórdãos do TCE/AC
 >* extrair informações relativas a número do acórdão, data do julgamento, e conteúdo do Acórdão.
 >* Criar a indexação com base no conteúdo dos Acórdãos para filtragem posterior.
->* Apresentar um gráfico quantidade sobre o assunto por ano ao final
+>* Ao final apresentar um gráfico QUANTIDADE DE ACÓRDÃOS que tratem do assunto por ANO
 >-----------
 >## 👨‍🏫 Professores
 >
