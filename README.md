@@ -1,4 +1,4 @@
-# Projeto_Leitura_Documentos
+# Projeto Leitura de Documentos
 -----------
 
 ## Curso Business Intelligence e Ciência de Dados
