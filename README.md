@@ -64,7 +64,7 @@
 > 1) Agradecemos nosso colega [Wisley de Oliveira Bandeira](https://www.linkedin.com/in/wisleybandeira/) por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto, sem isso não seria possível trabalharmos, estudar e ainda coletarmos os Acórdãos nescessários ao projeto.
 > 2) Agradecemos a todos os professores do curso *"Business Intelligence e Ciência de Dados"* por compartilhar seus conhecimentos, em especial nossos orientadores e o professor Dr. [Cláudio de Souza Baptista](https://www.linkedin.com/in/claudio-de-souza-baptista-07257721a/).
 > 3) Ao
-> ![TCE/AC]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fc%2FTCEAcreOficial&psig=AOvVaw02Ly3f0f1z854oKs3v7zek&ust=1707927554121000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDT4oTcqIQDFQAAAAAdAAAAABAE](https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png))
+> ![TCE/AC](https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png)
 [Tribunal de Contas do Estado do Acre](https://tceac.tc.br/site/), a
 [Universidade Federal da Paraíba](https://www.ufpb.br/) e a
 [Escola de Contas Conselheiro Alcides Dutra de Lima](https://moodle.tceac.tc.br/) que possibilitaram o curso *"Business Intelligence e Ciência de Dados"*
