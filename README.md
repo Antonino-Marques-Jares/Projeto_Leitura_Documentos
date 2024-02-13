@@ -31,7 +31,10 @@
 > Todos os Acórdãos do TCE/AC utilizados neste projeto já foram publicados
 > 
 >-----------
-## A) Etapas do pré-processamento - utilizaremos Python , PANDAS, Expressão Regular ##
+> ## 📦 Implantação
+> utilizaremos Python , PANDAS, Expressão Regular
+> 
+## A) Etapas do pré-processamento
 
 1) Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
    A planilha terá as seguintes colunas ID, ACORDAO, DIA, CONTEUDO.
