@@ -39,35 +39,26 @@
 >
 >-----------
 
-## A) Etapas do pré-processamento
->
->1) Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
->   A planilha terá as seguintes colunas ID, ACORDAO, DIA, CONTEUDO.
->2) Retirar NAN'S - utilizando o dataset do PANDAS
->3) Retirar registros que não foram encontrados Data do Acórdão e Número do Acórdão
->4) Corrigir o indice após a exclusão de registros para que este seja sequêncial e facilite o laço (for) na próxima etapa
->5) Retirar texto inicial e final no conteúdo, restringindo o texto que será objeto do estudo
-   
-## B) Normalização
->7) Transformar em letras minúsculas
->8) Remover pontuação e caracteres especiais do campo conteudo
-
-## C) Tokenização
->9) dividir em palavras 
-
-## D) N-Grams
->10) Definir o número de GRAMS
-
-## E) StopWords
->11) Retirar palavras não relevantes ao treinamento de máquina
-
-## F) Stemming e Lemmatization
->
-## G) Bag of Words
->
-## H) Plotagem de Gráfico
->
-## i) Conclusões Finais
+## - [X] Etapas do pré-processamento
+- [X] Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
+- [X] A planilha terá as seguintes colunas ID, ACORDAO, DIA, CONTEUDO.
+- [X] Retirar NAN'S - utilizando o dataset do PANDAS
+- [X] Retirar registros que não foram encontrados Data do Acórdão e Número do Acórdão
+- [X] Corrigir o indice após a exclusão de registros para que este seja sequêncial e facilite o laço (for) na próxima etapa
+- [X] Retirar texto inicial e final no conteúdo, restringindo o texto que será objeto do estudo
+## - [X] Normalização
+- [X] Transformar em letras minúsculas
+- [X] Remover pontuação e caracteres especiais do campo conteudo
+## - [ ] Tokenização
+- [ ] dividir em palavras 
+## - [ ] N-Grams
+- [ ] Definir o número de GRAMS
+## - [ ] StopWords
+- [ ] Retirar palavras não relevantes ao treinamento de máquina
+## - [ ] Stemming e Lemmatization
+## - [ ] Bag of Words
+## - [ ] Plotagem de Gráfico
+##  - [ ] Conclusões Finais
 > Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e outros Tribunais de Contas.
 
 >-----------
