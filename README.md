@@ -61,7 +61,7 @@
 ## 📦 Implantação
  [<img src= "https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png" width="60" alt="Python"/>](https://www.python.org/)
  [<img src= "https://miro.medium.com/v2/resize:fit:720/format:webp/0*RWkQ0Fziw792xa0S" width="90" alt="Pandas"/>](https://pandas.pydata.org/) 
- [<img src= "https://static.javatpoint.com/tutorial/regex/images/regex-tutorial.png" width="150" alt="Expressão Regular"/>](https://pypi.org/project/regex/) 
+ [<img src= "https://static.javatpoint.com/tutorial/regex/images/regex-tutorial.png" width="90" alt="Expressão Regular"/>](https://pypi.org/project/regex/) 
  
  Python, Pandas e Expressão Regular
 
