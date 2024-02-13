@@ -37,7 +37,7 @@
   - Anderson Almeida Firmino
   - Anselmo Cardoso de Paiva
   - Cláudio de Souza Baptista
-  - Geraldo Braz Júnior
+  - [Geraldo Braz Júnior](https://www.linkedin.com/in/geraldo-braz-junior-4821778b/) 
   - João Dallyson Sousa de Almeida
   - Mateus Queiroz Cunha
 
