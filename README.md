@@ -59,7 +59,11 @@
 -----------
 
 ## 📦 Implantação
- Python, PANDAS, Expressão Regular
+ [<img src= "https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png" width="150" alt="Python"/>]([https://tceac.tc.br/site/](https://www.python.org/))
+ 
+ Python
+ 
+ PANDAS, Expressão Regular
 
 -----------
 
