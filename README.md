@@ -119,7 +119,23 @@
 
 Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima, a Universidade Federal da Paraíba e ao Governo do Estado do Acre que nos possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
 
-
+-----------
+> [!NOTE]
+> Módulos do Curso "Business Intelligence e Ciência de Dados"
+>   - INTRODUÇÃO A BI E CIÊNCIA DE DADOS 
+>   - INTRODUÇÃO À PROGRAMAÇÃO COM PYTHON 
+>   - PROGRAMAÇÃO PYTHON PARA CIÊNCIA DE DADOS 
+>   - GESTÃO DE DADOS RELACIONAIS EM CIÊNCIA DE DADOS 
+>   - INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - IA 
+>   - PREDIÇÃO E CLASSIFICAÇÃO e SÉRIES TEMPORAIS 
+>   - REDES NEURAIS ARTIFICIAIS E REGRAS DE ASSOCIAÇÃO 
+>   - BUSINESS INTELLIGENCE COM POWER BI 
+>   - INTRODUÇÃO À PROCESSAMENTO DE LINGUAGEM NATURAL 
+>   - RECUPERAÇÃO DA INFORMAÇÃO
+>   - APRENDIZAGEM PROFUNDA (DEEP LEARNING) 
+>   - PROJETO EM CIÊNCIA DE DADOS
+>   - 
+-----------
 
 
 
