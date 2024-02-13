@@ -5,9 +5,10 @@
 ## 🚀 OBJETIVO:
 - [x] Fazer a leitura de Acórdãos do TCE/AC 
 - [x] Extrair informações relativas a número do acórdão, data do julgamento, e conteúdo do Acórdão.
-- [ ] Criar a indexação com base no conteúdo dos Acórdãos para filtragem posterior.
-- [ ] Apresentar um gráfico QUANTIDADE DE ACÓRDÃOS que tratem do assunto por ANO
-- [ ] Sugestões em uma padronização de Acórdão 
+- [X] Criar a indexação com base no conteúdo dos Acórdãos para filtragem posterior.
+- [X] Apresentar um gráfico QUANTIDADE DE ACÓRDÃOS que tratem do assunto por ANO
+- [X] Comentar o que podemos apurar com o Gráfico apresentado
+- [X] Sugestões em uma padronização de Acórdão 
 >-----------
 
 ## 👨‍🏫 Orientadores
