@@ -26,18 +26,14 @@
 
 -----------
 ## ✒️ Integrantes do Grupo
-
- [Antonino Marques Jares](https://www.linkedin.com/in/antonino-marques-jares-b447a734/)
-
- [Jamile Santos do Vale](https://www.linkedin.com/in/jamille-santos-3a9b76183/?originalSubdomain=br)  - TCE/AC
-
- José Coca Carrascosa Neto - MP/AC
-
- [Wallison Santos Ferreira](https://www.linkedin.com/in/wallisonferreira09/) - MP/AC
+  - [Antonino Marques Jares](https://www.linkedin.com/in/antonino-marques-jares-b447a734/)
+  - [Jamile Santos do Vale](https://www.linkedin.com/in/jamille-santos-3a9b76183/?originalSubdomain=br)  - TCE/AC
+  - José Coca Carrascosa Neto - MP/AC
+  - [Wallison Santos Ferreira](https://www.linkedin.com/in/wallisonferreira09/) - MP/AC
 
 -----------
 ## 📄 Licença
- Todos os Acórdãos do TCE/AC utilizados neste projeto já foram publicados
+  - Todos os Acórdãos do TCE/AC utilizados neste projeto já foram publicados
  
 -----------
 
@@ -114,8 +110,8 @@
 [<img src= "https://moodle.tceac.tc.br/pluginfile.php/1/theme_adaptable/favicon/1706543109/WhatsApp%20Image%202020-01-30%20at%2009.49.09.jpeg" width="130" alt="Escola de Contas Conselheiro Alcides Dutra de Lima"/>](https://moodle.tceac.tc.br/)
 [<img src= "https://iconape.com/wp-content/files/sm/153655/png/brasao-do-estado-do-acre-logo.png" width="130" alt="Governo do Estado do Acre"/>](https://estado.ac.gov.br/)
 
-
-Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima, a Universidade Federal da Paraíba e ao Governo do Estado do Acre que nos possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
+> [!IMPORTANT]
+> Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima, a Universidade Federal da Paraíba e ao Governo do Estado do Acre que nos possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
 
 -----------
 > [!NOTE]
