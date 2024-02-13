@@ -109,7 +109,7 @@
 [<img src= "https://iconape.com/wp-content/files/sm/153655/png/brasao-do-estado-do-acre-logo.png" width="130" alt="Governo do Estado do Acre"/>](https://estado.ac.gov.br/)
 
 
-Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima, a Universidade Federal da Paraíba e ao Governo do Estado do Acre que possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
+Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima, a Universidade Federal da Paraíba e ao Governo do Estado do Acre que nos possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
 
 
 
