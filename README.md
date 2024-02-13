@@ -74,7 +74,7 @@
 [<img src= "https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png" width="110" alt="Universidade Federal da Paraíba"/>](https://www.ufpb.br/)
 [<img src= "https://moodle.tceac.tc.br/pluginfile.php/1/theme_adaptable/favicon/1706543109/WhatsApp%20Image%202020-01-30%20at%2009.49.09.jpeg" width="130" alt="Escola de Contas Conselheiro Alcides Dutra de Lima"/>](https://moodle.tceac.tc.br/)
 [<img src= "https://iconape.com/wp-content/files/sm/153655/png/brasao-do-estado-do-acre-logo.png" width="130" alt="Governo do Estado do Acre"/>](https://estado.ac.gov.br/)
-> Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima e a Universidade Federal da Paraíba que possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
+> Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima, a Universidade Federal da Paraíba e ao Estado do Acre que possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
 >
 ## Módulos do Curso "Business Intelligence e Ciência de Dados"
 1. INTRODUÇÃO A BI E CIÊNCIA DE DADOS 
