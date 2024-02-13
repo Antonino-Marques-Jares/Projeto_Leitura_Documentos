@@ -83,8 +83,10 @@
 - [X] Retirar texto inicial e final no conteúdo, restringindo o texto que será objeto do estudo
 - [X] Normalização - Transformar em letras minúsculas
 - [X] Normalização - Remover pontuação e caracteres especiais do campo conteudo
+
 > [!IMPORTANT]
 > A ordem em que é executado as Expressões Lineares fazem muita diferença no resultado final.
+
 > [!TIP]
 > Para fazer testes de expressão regular use o site [regular expressions 101](https://regex101.com/) 
 ## Etapa 02 - Wallison Santos Ferreira
