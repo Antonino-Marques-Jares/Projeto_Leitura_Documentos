@@ -1,6 +1,6 @@
 # Projeto_Leitura_Documentos #
->### PROJETO FINAL do curso "Business Intelligence e Ciência de Dados" disponibilizado em parceria da Escola de Contas do TCE/AC e Universidade Federal da Paraíba - UFPA
->-----------
+### PROJETO FINAL do curso "Business Intelligence e Ciência de Dados" disponibilizado em parceria da Escola de Contas do TCE/AC e Universidade Federal da Paraíba - UFPA
+-----------
 
 ## 🚀 OBJETIVO:
 - [x] Fazer a leitura de Acórdãos do TCE/AC 
@@ -9,15 +9,15 @@
 - [X] Apresentar um gráfico QUANTIDADE DE ACÓRDÃOS que tratem do assunto por ANO
 - [X] Comentar o que podemos apurar com o Gráfico apresentado
 - [X] Sugestões em uma padronização de Acórdão 
->-----------
+-----------
 
 ## 👨‍🏫 Orientadores
->
-> MSc. André Luiz Firmino Alves - Professor, Orientador e Coordenador do Curso
->
-> Dr. Geraldo Braz Junior - Professor e Orientador
->
->-----------
+
+ MSc. André Luiz Firmino Alves - Professor, Orientador e Coordenador do Curso
+
+ Dr. Geraldo Braz Junior - Professor e Orientador
+
+-----------
 ## 👨‍🏫 Professores
   - André Luiz Firmino Alves (Coordenador do Curso)
   - Anderson Almeida Firmino
@@ -28,25 +28,25 @@
   - Mateus Queiroz Cunha
 
 ## ✒️ Integrantes do Grupo
->
-> [Antonino Marques Jares](https://www.linkedin.com/in/antonino-marques-jares-b447a734/)
->
-> [Jamile Santos do Vale](https://www.linkedin.com/in/jamille-santos-3a9b76183/?originalSubdomain=br)  - TCE/AC
->
-> José Coca Carrascosa Neto - MP/AC
->
-> [Wallison Santos Ferreira](https://www.linkedin.com/in/wallisonferreira09/) - MP/AC
->
->-----------
+
+ [Antonino Marques Jares](https://www.linkedin.com/in/antonino-marques-jares-b447a734/)
+
+ [Jamile Santos do Vale](https://www.linkedin.com/in/jamille-santos-3a9b76183/?originalSubdomain=br)  - TCE/AC
+
+ José Coca Carrascosa Neto - MP/AC
+
+ [Wallison Santos Ferreira](https://www.linkedin.com/in/wallisonferreira09/) - MP/AC
+
+-----------
 ## 📄 Licença
-> Todos os Acórdãos do TCE/AC utilizados neste projeto já foram publicados
-> 
->-----------
+ Todos os Acórdãos do TCE/AC utilizados neste projeto já foram publicados
+ 
+-----------
 
 ## 📦 Implantação
-> Python, PANDAS, Expressão Regular
->
->-----------
+ Python, PANDAS, Expressão Regular
+
+-----------
 
 ## Etapa 01 - Antonino Marques Jares
 - [X] Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
@@ -72,18 +72,18 @@
 - [ ] Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e em outros Tribunais de Contas.
 
 
->-----------
+-----------
 ## 🎁 Agradecimento pessoal
-> 1) Agradecemos nosso colega [Wisley de Oliveira Bandeira](https://www.linkedin.com/in/wisleybandeira/) por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto, sem isso não seria possível trabalharmos, estudar e ainda coletarmos os Acórdãos nescessários ao projeto.
-> 2) Agradecemos a todos os professores do curso *"Business Intelligence e Ciência de Dados"* por compartilhar seus conhecimentos, em especial à nossos orientadores André Luiz Firmino Alves, Geraldo Braz Junior e ao professor Dr. [Cláudio de Souza Baptista](https://www.linkedin.com/in/claudio-de-souza-baptista-07257721a/).
-> 
+ 1) Agradecemos nosso colega [Wisley de Oliveira Bandeira](https://www.linkedin.com/in/wisleybandeira/) por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto, sem isso não seria possível trabalharmos, estudar e ainda coletarmos os Acórdãos nescessários ao projeto.
+ 2) Agradecemos a todos os professores do curso *"Business Intelligence e Ciência de Dados"* por compartilhar seus conhecimentos, em especial à nossos orientadores André Luiz Firmino Alves, Geraldo Braz Junior e ao professor Dr. [Cláudio de Souza Baptista](https://www.linkedin.com/in/claudio-de-souza-baptista-07257721a/).
+ 
 ## 🎁 Agradecimentos as Instituições
 [<img src= "https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png" width="150" alt="Tribunal de Contas do Estado do Acre"/>](https://tceac.tc.br/site/)
 [<img src= "https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png" width="110" alt="Universidade Federal da Paraíba"/>](https://www.ufpb.br/)
 [<img src= "https://moodle.tceac.tc.br/pluginfile.php/1/theme_adaptable/favicon/1706543109/WhatsApp%20Image%202020-01-30%20at%2009.49.09.jpeg" width="130" alt="Escola de Contas Conselheiro Alcides Dutra de Lima"/>](https://moodle.tceac.tc.br/)
 [<img src= "https://iconape.com/wp-content/files/sm/153655/png/brasao-do-estado-do-acre-logo.png" width="130" alt="Governo do Estado do Acre"/>](https://estado.ac.gov.br/)
-> Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima, a Universidade Federal da Paraíba e ao Governo do Estado do Acre que possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
->
+ Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima, a Universidade Federal da Paraíba e ao Governo do Estado do Acre que possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
+
 ## Módulos do Curso "Business Intelligence e Ciência de Dados"
 1. INTRODUÇÃO A BI E CIÊNCIA DE DADOS 
 2. INTRODUÇÃO À PROGRAMAÇÃO COM PYTHON 
