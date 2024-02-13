@@ -1,12 +1,13 @@
 # Projeto_Leitura_Documentos #
 >*PROJETO FINAL* para o curso *"Business Intelligence e Ciência de Dados"* disponibilizado em parceria da Escola de Contas do TCE/AC e Universidade Federal da Paraíba - UFPA
->
+>-----------
 >## 🚀 OBJETIVO:
 >* Fazer a leitura de Acórdãos do TCE/AC
 >* extrair informações relativas a número do acórdão, data do julgamento, e conteúdo do Acórdão.
 >* Criar a indexação com base no conteúdo dos Acórdãos para filtragem posterior.
 >* Ao final apresentar um gráfico QUANTIDADE DE ACÓRDÃOS que tratem do assunto por ANO
 >-----------
+>
 >## 👨‍🏫 Professores
 >
 > MSc. André Luiz Firmino Alves - Professor/Orientador
@@ -15,8 +16,6 @@
 >
 >>-----------
 >## ✒️ Integrantes do Grupo
->
->-----------
 >
 > [Antonino Marques Jares](https://www.linkedin.com/in/antonino-marques-jares-b447a734/) - TCE/AC
 >
