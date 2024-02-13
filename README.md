@@ -1,6 +1,20 @@
 # Projeto_Leitura_Documentos #
 ### PROJETO FINAL do curso "Business Intelligence e Ciência de Dados" disponibilizado em parceria da Escola de Contas do TCE/AC e Universidade Federal da Paraíba - UFPA
 -----------
+## Módulos do Curso "Business Intelligence e Ciência de Dados"
+> 1. INTRODUÇÃO A BI E CIÊNCIA DE DADOS 
+> 2. INTRODUÇÃO À PROGRAMAÇÃO COM PYTHON 
+> 3. PROGRAMAÇÃO PYTHON PARA CIÊNCIA DE DADOS 
+> 4. GESTÃO DE DADOS RELACIONAIS EM CIÊNCIA DE DADOS 
+> 5. INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - IA 
+> 6. PREDIÇÃO E CLASSIFICAÇÃO e SÉRIES TEMPORAIS 
+> 7. REDES NEURAIS ARTIFICIAIS E REGRAS DE ASSOCIAÇÃO 
+> 8. BUSINESS INTELLIGENCE COM POWER BI 
+> 9. INTRODUÇÃO À PROCESSAMENTO DE LINGUAGEM NATURAL 
+> 10. RECUPERAÇÃO DA INFORMAÇÃO
+> 11. APRENDIZAGEM PROFUNDA (DEEP LEARNING) 
+> 12. PROJETO EM CIÊNCIA DE DADOS
+-----------
 
 ## 🚀 OBJETIVO:
 - [x] Fazer a leitura de Acórdãos do TCE/AC 
@@ -86,19 +100,7 @@
 
 Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima, a Universidade Federal da Paraíba e ao Governo do Estado do Acre que possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
 
-## Módulos do Curso "Business Intelligence e Ciência de Dados"
-1. INTRODUÇÃO A BI E CIÊNCIA DE DADOS 
-2. INTRODUÇÃO À PROGRAMAÇÃO COM PYTHON 
-3. PROGRAMAÇÃO PYTHON PARA CIÊNCIA DE DADOS 
-4. GESTÃO DE DADOS RELACIONAIS EM CIÊNCIA DE DADOS 
-5. INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - IA 
-6. PREDIÇÃO E CLASSIFICAÇÃO e SÉRIES TEMPORAIS 
-7. REDES NEURAIS ARTIFICIAIS E REGRAS DE ASSOCIAÇÃO 
-8. BUSINESS INTELLIGENCE COM POWER BI 
-9. INTRODUÇÃO À PROCESSAMENTO DE LINGUAGEM NATURAL 
-10. RECUPERAÇÃO DA INFORMAÇÃO
-11. APRENDIZAGEM PROFUNDA (DEEP LEARNING) 
-12. PROJETO EM CIÊNCIA DE DADOS
+
 
 
 
