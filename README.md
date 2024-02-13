@@ -65,7 +65,7 @@
 > 
 > Desta forma fizemos um **tipo de linha de montagem**, onde cada módulo ficou independente de influência externas mas **podendo acessar as informações do módulo anterior por um arquivo csv**.
 > 
-> Este processo **garante que não iremos ter conflitos em linhas de código** e com isso ganhamos tempo na implementação.
+> Este processo **garante que não teremos conflitos em linhas de código** e com isso ganhamos tempo na implementação.
 
 ## Etapa 01 - Antonino Marques Jares
 - [X] Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha csv.
