@@ -134,7 +134,6 @@ Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselhe
 >   - RECUPERAÇÃO DA INFORMAÇÃO
 >   - APRENDIZAGEM PROFUNDA (DEEP LEARNING) 
 >   - PROJETO EM CIÊNCIA DE DADOS
->   - 
 -----------
 
 
