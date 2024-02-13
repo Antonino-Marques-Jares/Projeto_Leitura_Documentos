@@ -1,8 +1,9 @@
 # Projeto Leitura de Documentos
 -----------
 
-## Curso Business Intelligence e Ciência de Dados
-  - Trabalho Final do Curso
+## 🎓 Trabalho Final do Curso: 
+  - Business Intelligence e Ciência de Dados
+
     
 -----------
 ## 🚀 Objetivo:
