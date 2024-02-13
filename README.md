@@ -25,7 +25,7 @@
 - [X] Sugestões em uma padronização de Acórdão 
 -----------
 
-## 👨‍🏫 Orientadores
+## 💼 Orientadores
 
  MSc. André Luiz Firmino Alves - Coordenador do Curso
 
