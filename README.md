@@ -27,6 +27,7 @@
   - João Dallyson Sousa de Almeida
   - Mateus Queiroz Cunha
 
+-----------
 ## ✒️ Integrantes do Grupo
 
  [Antonino Marques Jares](https://www.linkedin.com/in/antonino-marques-jares-b447a734/)
