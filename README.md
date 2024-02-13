@@ -27,9 +27,9 @@
 
 ## 👨‍🏫 Orientadores
 
- MSc. André Luiz Firmino Alves - Professor, Orientador e Coordenador do Curso
+ MSc. André Luiz Firmino Alves - Coordenador do Curso
 
- Dr.  [Geraldo Braz Júnior](https://www.linkedin.com/in/geraldo-braz-junior-4821778b/) - Professor e Orientador
+ Dr.  [Geraldo Braz Júnior](https://www.linkedin.com/in/geraldo-braz-junior-4821778b/) 
 
 -----------
 ## 👨‍🏫 Professores
