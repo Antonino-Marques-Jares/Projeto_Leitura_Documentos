@@ -72,7 +72,7 @@
  GitHub
 > [!NOTE]
 > Para evitarmos confitos no GitHub, cada módulo criou um arquivo csv ao final e cada participante ficou responsável por um módulo.
-> Desta forma fizemos um tipo de linha de montagem, onde cada módulo ficou independente de influência externas mas pode acessar as informações do módulo anterior por um arquivo csv.
+> Desta forma fizemos um tipo de linha de montagem, onde cada módulo ficou independente de influência externas mas podendo acessar as informações do módulo anterior por um arquivo csv.
 
 ## Etapa 01 - Antonino Marques Jares
 - [X] Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
