@@ -59,5 +59,8 @@
 ## F) Stemming e Lemmatization
 
 ## G) Bag of Words
+>
+## 🎁 Agradecimento
+> Will por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto
 
 
