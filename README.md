@@ -50,15 +50,12 @@
 - [X] Transformar em letras minúsculas
 - [X] Remover pontuação e caracteres especiais do campo conteudo
 ## - [ ] Tokenização
-- [ ] dividir em palavras 
 ## - [ ] N-Grams
-- [ ] Definir o número de GRAMS
 ## - [ ] StopWords
-- [ ] Retirar palavras não relevantes ao treinamento de máquina
 ## - [ ] Stemming e Lemmatization
 ## - [ ] Bag of Words
 ## - [ ] Plotagem de Gráfico
-##  - [ ] Conclusões Finais
+## - [ ] Conclusões Finais
 > Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e outros Tribunais de Contas.
 
 >-----------
