@@ -9,10 +9,10 @@
 ## 🚀 Objetivo:
 - [x] Fazer a leitura de Acórdãos do Tribunal de Contas do Estado do Acre, que inicialmente encontram-se em PDF's
 - [x] Extrair informações relativas a número do acórdão, data do julgamento, e conteúdo do Acórdão.
-- [X] Criar a indexação com base no conteúdo dos Acórdãos para filtragem posterior.
-- [X] Apresentar um gráfico QUANTIDADE DE ACÓRDÃOS que tratem do assunto por ANO
-- [X] Comentar o que podemos apurar com o Gráfico apresentado
-- [X] Sugestões em uma padronização de Acórdão 
+- [X] Criar a indexação com base no conteúdo dos Acórdãos para filtrar por assunto abordado.
+- [X] Apresentar um gráfico que apresente a QUANTIDADE DE ACÓRDÃOS que tratou do assunto (filtro) por ANO
+- [X] Comentar o que podemos apurar com o gráfico apresentado
+- [X] Sugestões para uma padronização de Acórdão 
 -----------
 
 ## 💼 Orientadores:
