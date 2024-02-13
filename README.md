@@ -66,8 +66,7 @@
 > 
 [<img src= "https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png" width="125"/>](https://tceac.tc.br/site/)
 [<img src= "https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png" width="110"/>](https://www.ufpb.br/)
-[<img src= "https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png" width="110"/>](https://www.ufpb.br/)
-[Escola de Contas Conselheiro Alcides Dutra de Lima](https://moodle.tceac.tc.br/) que possibilitaram o curso *"Business Intelligence e Ciência de Dados"*
+[<img src= "https://moodle.tceac.tc.br/pluginfile.php/1/theme_adaptable/favicon/1706543109/WhatsApp%20Image%202020-01-30%20at%2009.49.09.jpeg" width="110"/>](https://moodle.tceac.tc.br/)
 > 
 
 
