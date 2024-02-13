@@ -77,13 +77,13 @@
 - [X] Normalização - Transformar em letras minúsculas
 - [X] Normalização - Remover pontuação e caracteres especiais do campo conteudo
 
-> [!IMPORTANT]
+> [!Caution]
 > A ordem em que é executado as Expressões Lineares fazem muita diferença no resultado final.
 
 > [!TIP]
 > Recomendamos o site [regular expressions 101](https://regex101.com/) para fazer testes de Expressão Regular
 
-> [!Caution]
+> [!IMPORTANT]
 > Nesta fase de Expressões Regulares perceberemos que a falta de padrões no texto muitas vezes inviabilizam ou dificulta extrairmos as informações.
 >
 > Ao final do projeto falaremos das dificuldades encontradas.
