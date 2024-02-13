@@ -4,7 +4,7 @@
 
 ## 🚀 OBJETIVO:
 >* Fazer a leitura de Acórdãos do TCE/AC
->* extrair informações relativas a número do acórdão, data do julgamento, e conteúdo do Acórdão.
+>* Extrair informações relativas a número do acórdão, data do julgamento, e conteúdo do Acórdão.
 >* Criar a indexação com base no conteúdo dos Acórdãos para filtragem posterior.
 >* Ao final apresentar um gráfico QUANTIDADE DE ACÓRDÃOS que tratem do assunto por ANO
 >-----------
@@ -65,7 +65,7 @@
 ## G) Bag of Words
 >
 ## H) Conclosões Finais
-> Sugestões ao TCE/AC na padronização dos Acórdãos, tendo em vista as etapas do projeto com o objetivo a contribuir na extração futura de informações dos seus Acórdãos de forma automática.
+> Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e outros Tribunais de Contas.
 
 >-----------
 ## 🎁 Agradecimento pessoal
