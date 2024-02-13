@@ -66,6 +66,9 @@
  Python, Pandas e Expressão Regular
 
 -----------
+## 👥 Plataforma de código-fonte para trabalho em grupo
+ [<img src= "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="60" alt="Expressão Regular"/>](https://github.com/) 
+ GitHub
 
 ## Etapa 01 - Antonino Marques Jares
 - [X] Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
