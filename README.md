@@ -19,7 +19,7 @@
 
 ## ✒️ Integrantes do Grupo
 >
-> [<img src="https://media.licdn.com/dms/image/D4D03AQFATe27TGw0YQ/profile-displayphoto-shrink_200_200/0/1674939191697?e=1713398400&v=beta&t=iYYUI4IaYU7CGgni4no6TEPqqe8t6ccLwcvwceVbLlY" alt="Antonino Marques Jares" style = "width:60 px;height:60px;float:left;padding:0px;border-radius:50%;margin:10px;">] - TCE/AC
+<img src="https://media.licdn.com/dms/image/D4D03AQFATe27TGw0YQ/profile-displayphoto-shrink_200_200/0/1674939191697?e=1713398400&v=beta&t=iYYUI4IaYU7CGgni4no6TEPqqe8t6ccLwcvwceVbLlY" alt="Antonino Marques Jares" style="width:60 px;height:60px;float:left;padding:0px;border-radius:50%;margin:10px;">
 >
 > [Jamile Santos do Vale](https://www.linkedin.com/in/jamille-santos-3a9b76183/?originalSubdomain=br)  - TCE/AC
 >
