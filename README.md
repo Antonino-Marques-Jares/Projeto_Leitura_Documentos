@@ -39,7 +39,7 @@
 >
 >-----------
 
-## Etapa 01 
+## Etapa 01 - Antonino Marques Jares
 - [X] Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
 - [X] A planilha terá as seguintes colunas ID, ACORDAO, DIA, CONTEUDO.
 - [X] Retirar NAN'S - utilizando o dataset do PANDAS
@@ -48,16 +48,18 @@
 - [X] Retirar texto inicial e final no conteúdo, restringindo o texto que será objeto do estudo
 - [X] Normalização - Transformar em letras minúsculas
 - [X] Normalização - Remover pontuação e caracteres especiais do campo conteudo
-## Etapa 02 
+## Etapa 02 - Wallison Santos Ferreira
 - [ ] Tokenização
 - [ ] N-Grams
 - [ ] StopWords
 - [ ] Stemming e Lemmatization
 - [ ] Bag of Words
-## Etapa 03
+## Etapa 03 - José Coca Carrascosa Neto
 - [ ] Plotagem de Gráfico
-## Etapa 04 - Conclusões Finais
-- [ ] Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e outros Tribunais de Contas.
+## Etapa 04 - Apresentação - Jamile Santos do Vale
+- [ ] Slides e Conferência 
+## Conclusões Finais - Todos os integrantes
+- [ ] Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e em outros Tribunais de Contas.
 
 
 >-----------
