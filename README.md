@@ -49,11 +49,7 @@
  [<img src= "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="60" alt="Expressão Regular"/>](https://github.com/) 
  
  **GitHub**
-> [!IMPORTANT]
-> PDF's que estejam ainda em imagem podem ser lidos pela biblioteca Tesseract com Python, contudo optamos neste projeto dar continuidade com os Acórdãos que haviam sido scaneados corretamente.
-> 
-> Tendo em vista que ainda tinhamos muitos Acórdãos a analisar.
-
+ 
 > [!TIP]
 > Para evitarmos confitos no GitHub, cada módulo criou um arquivo csv como resultado e **definimos o responsável por cada módulo**.
 > 
@@ -70,6 +66,11 @@
 - [X] Retirar texto inicial e final no conteúdo, restringindo o texto que será objeto do estudo
 - [X] Normalização - Transformar em letras minúsculas
 - [X] Normalização - Remover pontuação e caracteres especiais do campo conteudo
+
+> [!IMPORTANT]
+> PDF's que estejam ainda em imagem podem ser lidos pela biblioteca Tesseract com Python, contudo, optamos neste projeto dar continuidade com os Acórdãos que haviam sido scaneados corretamente.
+> 
+> Tendo em vista que ainda tinhamos muitos Acórdãos a analisar.
 
 > [!Caution]
 > A ordem em que é executado as Expressões Lineares fazem muita diferença no resultado final.
