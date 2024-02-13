@@ -1,5 +1,7 @@
-# Projeto_Leitura_Documentos #
-### CURSO Business Intelligence e Ciência de Dados
+# Projeto_Leitura_Documentos
+-----------
+
+## Curso Business Intelligence e Ciência de Dados
   - Trabalho Final do Curso
     
 -----------
