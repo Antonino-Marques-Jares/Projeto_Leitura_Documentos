@@ -41,8 +41,9 @@
  [<img src= "https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png" width="60" alt="Python"/>](https://www.python.org/)
  [<img src= "https://miro.medium.com/v2/resize:fit:720/format:webp/0*RWkQ0Fziw792xa0S" width="80" alt="Pandas"/>](https://pandas.pydata.org/) 
  [<img src= "https://static.javatpoint.com/tutorial/regex/images/regex-tutorial.png" width="60" alt="Expressão Regular"/>](https://pypi.org/project/regex/) 
+ [<img src= "https://icons.veryicon.com/png/o/miscellaneous/2022-complete-collection-of-alibaba-cloud/nlp-ke-headword-extraction-1.png" width="60" alt="NLP"/>](https://www.veryicon.com/) 
  
- **Python, Pandas e Expressão Regular**
+ **Python**, **Pandas**, **Expressão Regular** e **NLP**
 
 -----------
 ## 👥 Plataforma de código-fonte em nuvem para trabalho em grupo
