@@ -68,12 +68,26 @@
 ## 🎁 Agradecimento pessoal
 > 1) Agradecemos nosso colega [Wisley de Oliveira Bandeira](https://www.linkedin.com/in/wisleybandeira/) por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto, sem isso não seria possível trabalharmos, estudar e ainda coletarmos os Acórdãos nescessários ao projeto.
 > 2) Agradecemos a todos os professores do curso *"Business Intelligence e Ciência de Dados"* por compartilhar seus conhecimentos, em especial à nossos orientadores André Luiz Firmino Alves, Geraldo Braz Junior e ao professor Dr. [Cláudio de Souza Baptista](https://www.linkedin.com/in/claudio-de-souza-baptista-07257721a/).
->    
+> 
 ## 🎁 Agradecimentos as Instituições
 [<img src= "https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png" width="125"/>](https://tceac.tc.br/site/)
 [<img src= "https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png" width="110"/>](https://www.ufpb.br/)
 [<img src= "https://moodle.tceac.tc.br/pluginfile.php/1/theme_adaptable/favicon/1706543109/WhatsApp%20Image%202020-01-30%20at%2009.49.09.jpeg" width="110"/>](https://moodle.tceac.tc.br/)
-> Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima e a Universidade Federal da Paraíba que possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024)
+> Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima e a Universidade Federal da Paraíba que possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
+>
+## Módulos do Curso Business Intelligence e Ciência de Dados
+1. INTRODUÇÃO A BI E CIÊNCIA DE DADOS 
+2. INTRODUÇÃO À PROGRAMAÇÃO COM PYTHON 
+3. PROGRAMAÇÃO PYTHON PARA CIÊNCIA DE DADOS 
+4. GESTÃO DE DADOS RELACIONAIS EM CIÊNCIA DE DADOS 
+5. INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - IA 
+6. PREDIÇÃO E CLASSIFICAÇÃO e SÉRIES TEMPORAIS 
+7. REDES NEURAIS ARTIFICIAIS E REGRAS DE ASSOCIAÇÃO 
+8. BUSINESS INTELLIGENCE COM POWER BI 
+9. INTRODUÇÃO À PROCESSAMENTO DE LINGUAGEM NATURAL 
+10. RECUPERAÇÃO DA INFORMAÇÃO
+11. APRENDIZAGEM PROFUNDA (DEEP LEARNING) 
+12. PROJETO EM CIÊNCIA DE DADOS
 
 
 
