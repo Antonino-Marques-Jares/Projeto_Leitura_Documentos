@@ -82,7 +82,7 @@
 > Recomendamos o site [regular expressions 101](https://regex101.com/) para fazer testes de Expressão Regular
 
 > [!IMPORTANT]
-> Nesta fase de Expressões Regulares perceberemos que a falta de padrões no texto muitas vezes inviabilizam ou dificulta extrairmos as informações.
+> Nesta fase de Expressões Regulares perceberemos que a falta de padrões no texto muitas vezes inviabilizam ou dificultam a extração sas informações.
 >
 > Ao final do projeto falaremos das dificuldades encontradas.
 
