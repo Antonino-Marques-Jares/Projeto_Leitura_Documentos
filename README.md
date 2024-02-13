@@ -7,7 +7,7 @@
     
 -----------
 ## 🚀 Objetivo:
-- [x] Fazer a leitura de Acórdãos do TCE/AC 
+- [x] Fazer a leitura de Acórdãos do Tribunal de Contas do Estado do Acre
 - [x] Extrair informações relativas a número do acórdão, data do julgamento, e conteúdo do Acórdão.
 - [X] Criar a indexação com base no conteúdo dos Acórdãos para filtragem posterior.
 - [X] Apresentar um gráfico QUANTIDADE DE ACÓRDÃOS que tratem do assunto por ANO
