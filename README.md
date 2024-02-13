@@ -88,7 +88,8 @@
 > A ordem em que é executado as Expressões Lineares fazem muita diferença no resultado final.
 
 > [!TIP]
-> Para fazer testes de expressão regular use o site [regular expressions 101](https://regex101.com/) 
+> Recomendamos o site [regular expressions 101](https://regex101.com/) para fazer testes de Expressão Regular
+
 ## Etapa 02 - Wallison Santos Ferreira
 - [ ] Tokenização
 - [ ] N-Grams
