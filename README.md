@@ -64,7 +64,9 @@
 >
 ## G) Bag of Words
 >
-## H) Conclusões Finais
+## H) Plotagem de Gráfico
+>
+## i) Conclusões Finais
 > Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e outros Tribunais de Contas.
 
 >-----------
