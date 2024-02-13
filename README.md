@@ -93,7 +93,7 @@
 - [ ] Stemming e Lemmatization
 - [ ] Bag of Words
 ## Etapa 03 - José Coca Carrascosa Neto:
-- [ ] Plotagem de Gráfico
+- [ ] Plotagem de Gráfico apresentando QUANTIDADE DE ACÓRDÃOS que tenham o ASSUNTO (filtro) por ANO
 ## Etapa 04 - Apresentação - Jamile Santos do Vale:
 - [ ] Slides e Conferência 
 ## Etapa Final - Conclusão - Todos os integrantes:
