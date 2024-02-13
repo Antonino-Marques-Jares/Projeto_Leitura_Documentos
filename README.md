@@ -64,6 +64,9 @@
 >
 ## G) Bag of Words
 >
+## H) Conclosões Finais
+> Sugestões ao TCE/AC na padronização dos Acórdãos, tendo em vista as etapas do projeto com o objetivo a contribuir na extração futura de informações dos seus Acórdãos de forma automática.
+
 >-----------
 ## 🎁 Agradecimento pessoal
 > 1) Agradecemos nosso colega [Wisley de Oliveira Bandeira](https://www.linkedin.com/in/wisleybandeira/) por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto, sem isso não seria possível trabalharmos, estudar e ainda coletarmos os Acórdãos nescessários ao projeto.
