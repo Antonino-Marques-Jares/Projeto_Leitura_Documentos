@@ -74,7 +74,9 @@
 > Tendo em vista que ainda tinhamos Acórdãos suficientes e nosso foco no projeto é a analise NLP.
 
 > [!Caution]
-> A ordem em que é executado as Expressões Lineares fazem muita diferença no resultado final.
+> A ordem em que é executado as Expressões Lineares é muito importante.
+>
+> Esta etapa deve ser bem planejada, para conseguir o melhor resultado.
 
 > [!TIP]
 > Recomendamos o site [regular expressions 101](https://regex101.com/) para fazer testes de Expressão Regular
