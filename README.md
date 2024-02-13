@@ -55,12 +55,12 @@
  [<img src= "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="60" alt="Expressão Regular"/>](https://github.com/) 
  
  GitHub
-> [!NOTE]
+> [!IMPORTTANT]
 > PDF's que estejam ainda em imagem podem ser lidos pela biblioteca Tesseract com Python, contudo optamos neste projeto dar continuidade com os Acórdãos que haviam sido scaneados corretamente.
 > 
 > Tendo em vista que ainda tinhamos muitos Acórdãos a analisar.
 
-> [!NOTE]
+> [!TIP]
 > Para evitarmos confitos no GitHub, cada módulo criou um arquivo csv como resultado e **definimos o responsável por cada módulo**.
 > 
 > Desta forma fizemos um **tipo de linha de montagem**, onde cada módulo ficou independente de influência externas mas **podendo acessar as informações do módulo anterior por um arquivo csv**.
