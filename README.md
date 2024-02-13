@@ -57,6 +57,7 @@
  GitHub
 > [!NOTE]
 > PDF's que estejam ainda em imagem podem ser lidos pela biblioteca Tesseract com Python, contudo optamos neste projeto dar continuidade com os Acórdãos que haviam sido scaneados corretamente.
+> Tendo em vista que ainda tinhamos muitos Acórdãos a analisar.
 > 
 > Para evitarmos confitos no GitHub, cada módulo criou um arquivo csv como resultado e **definimos o responsável por cada módulo**.
 > 
