@@ -18,6 +18,14 @@
 > Dr. Geraldo Braz Junior - Professor e Orientador
 >
 >-----------
+## 👨‍🏫 Professores
+  - André Luiz Firmino Alves (Coordenador do Curso)
+  - Anderson Almeida Firmino
+  - Anselmo Cardoso de Paiva
+  - Cláudio de Souza Baptista
+  - Geraldo Braz Júnior
+  - João Dallyson Sousa de Almeida
+  - Mateus Queiroz Cunha
 
 ## ✒️ Integrantes do Grupo
 >
