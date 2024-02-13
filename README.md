@@ -71,7 +71,7 @@
 > [!IMPORTANT]
 > PDF's que estejam ainda em imagem podem ser lidos pela biblioteca Tesseract com Python, contudo, optamos neste projeto dar continuidade com os Acórdãos restantes.
 > 
-> Tendo em vista que ainda tinhamos Acórdãos suficientes e nosso foco no projeto é a analise NLP.
+> Tendo em vista que temos Acórdãos suficientes que conseguimos fazer a leitura do texto e nosso foco no projeto está na analise NLP.
 
 > [!Caution]
 > A ordem em que é executado as Expressões Lineares é muito importante.
