@@ -75,7 +75,7 @@
 [<img src= "https://moodle.tceac.tc.br/pluginfile.php/1/theme_adaptable/favicon/1706543109/WhatsApp%20Image%202020-01-30%20at%2009.49.09.jpeg" width="110"/>](https://moodle.tceac.tc.br/)
 > Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima e a Universidade Federal da Paraíba que possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
 >
-## Módulos do Curso Business Intelligence e Ciência de Dados
+## Módulos do Curso "Business Intelligence e Ciência de Dados"
 1. INTRODUÇÃO A BI E CIÊNCIA DE DADOS 
 2. INTRODUÇÃO À PROGRAMAÇÃO COM PYTHON 
 3. PROGRAMAÇÃO PYTHON PARA CIÊNCIA DE DADOS 
