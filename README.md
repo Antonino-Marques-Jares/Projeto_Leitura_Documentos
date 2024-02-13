@@ -21,7 +21,7 @@
 >
 > [Antonino Marques Jares](https://www.linkedin.com/in/antonino-marques-jares-b447a734/) - TCE/AC
 >
-> Jamile Santos do Vale - TCE/AC
+> [Jamile Santos do Vale](https://www.linkedin.com/in/jamille-santos-3a9b76183/?originalSubdomain=br)  - TCE/AC
 >
 > José Coca Carrascosa Neto - MP/AC
 >
