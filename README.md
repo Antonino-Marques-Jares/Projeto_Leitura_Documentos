@@ -65,7 +65,7 @@
 ## Etapa 01 - Antonino Marques Jares
 - [X] Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha csv.
 - [X] A planilha terá as seguintes colunas ID, ACORDAO, DIA, CONTEUDO.
-- [X] Retirar NAN'S - utilizando o dataset do PANDAS
+- [X] Retirar NAN'S - devido a PDF's ainda estarem scaneados como imagens - utilizando o dataset do PANDAS
 - [X] Retirar registros que não foram encontrados Data do Acórdão e Número do Acórdão
 - [X] Corrigir o indice após a exclusão de registros para que este seja sequêncial e facilite o laço (for) na próxima etapa
 - [X] Retirar texto inicial e final no conteúdo, restringindo o texto que será objeto do estudo
