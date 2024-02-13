@@ -69,9 +69,9 @@
 - [X] Normalização - Remover pontuação e caracteres especiais do campo conteudo
 
 > [!IMPORTANT]
-> PDF's que estejam ainda em imagem podem ser lidos pela biblioteca Tesseract com Python, contudo, optamos neste projeto dar continuidade com os Acórdãos que haviam sido scaneados corretamente.
+> PDF's que estejam ainda em imagem podem ser lidos pela biblioteca Tesseract com Python, contudo, optamos neste projeto dar continuidade com os Acórdãos restantes.
 > 
-> Tendo em vista que ainda tinhamos muitos Acórdãos a analisar.
+> Tendo em vista que ainda tinhamos Acórdãos suficientes e nosso foco no projeto é a analise NLP.
 
 > [!Caution]
 > A ordem em que é executado as Expressões Lineares fazem muita diferença no resultado final.
