@@ -34,7 +34,7 @@
 >-----------
 
 ## 📦 Implantação
-> utilizaremos Python , PANDAS, Expressão Regular
+> Python, PANDAS, Expressão Regular
 >
 >-----------
 
