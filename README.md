@@ -39,24 +39,26 @@
 >
 >-----------
 
-## - [X] Etapas do pré-processamento
+## Etapa 01 
 - [X] Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
 - [X] A planilha terá as seguintes colunas ID, ACORDAO, DIA, CONTEUDO.
 - [X] Retirar NAN'S - utilizando o dataset do PANDAS
 - [X] Retirar registros que não foram encontrados Data do Acórdão e Número do Acórdão
 - [X] Corrigir o indice após a exclusão de registros para que este seja sequêncial e facilite o laço (for) na próxima etapa
 - [X] Retirar texto inicial e final no conteúdo, restringindo o texto que será objeto do estudo
-## - [X] Normalização
-- [X] Transformar em letras minúsculas
-- [X] Remover pontuação e caracteres especiais do campo conteudo
-## - [ ] Tokenização
-## - [ ] N-Grams
-## - [ ] StopWords
-## - [ ] Stemming e Lemmatization
-## - [ ] Bag of Words
-## - [ ] Plotagem de Gráfico
-## - [ ] Conclusões Finais
-> Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e outros Tribunais de Contas.
+- [X] Normalização - Transformar em letras minúsculas
+- [X] Normalização - Remover pontuação e caracteres especiais do campo conteudo
+## Etapa 02 
+- [ ] Tokenização
+- [ ] N-Grams
+- [ ] StopWords
+- [ ] Stemming e Lemmatization
+- [ ] Bag of Words
+## Etapa 03
+- [ ] Plotagem de Gráfico
+## Etapa 04 - Conclusões Finais
+- [ ] Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e outros Tribunais de Contas.
+
 
 >-----------
 ## 🎁 Agradecimento pessoal
