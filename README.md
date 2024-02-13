@@ -10,8 +10,10 @@
 >## 👨‍🏫 Professores
 >
 > André Luiz - Professor/Orientador
->-----------
+>
 > Geraldo Braz - Professor/Orientador
+>
+>>-----------
 >## ✒️ Integrantes do Grupo
 >
 >-----------
