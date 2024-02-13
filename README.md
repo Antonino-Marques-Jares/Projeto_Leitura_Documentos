@@ -9,22 +9,22 @@
 >-----------
 >## 👨‍🏫 Professores
 >
-> André Luiz - Professor/Orientador
+> MSc. André Luiz Firmino Alves - Professor/Orientador
 >
-> Geraldo Braz - Professor/Orientador
+> Dr. Geraldo Braz Junior - Professor/Orientador
 >
 >>-----------
 >## ✒️ Integrantes do Grupo
 >
 >-----------
 >
-> Antonino Marques Jares - TCE/AC
+> [Antonino Marques Jares](https://www.linkedin.com/in/antonino-marques-jares-b447a734/) - TCE/AC
 >
 > Jamile Santos do Vale - TCE/AC
 >
 > José Coca Carrascosa Neto - MP/AC
 >
-> Wallison Santos Ferreira - MP/AC
+> [Wallison Santos Ferreira](https://www.linkedin.com/in/wallisonferreira09/) - MP/AC
 >
 >-----------
 ## 📄 Licença
@@ -61,6 +61,7 @@
 ## G) Bag of Words
 >
 ## 🎁 Agradecimento
-> Will por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto
+> 1) Agradecemos nosso colega [Wisley de Oliveira Bandeira](https://www.linkedin.com/in/wisleybandeira/) por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto, sem isso não seria possível trabalharmos, estudar e ainda coletarmos os Acórdãos nescessários ao projeto.
+> 2) Agradecemos a todos os professores do curso *"Business Intelligence e Ciência de Dados"* por compartilhar seus conhecimentos, em especial nossos orientadores e o professor Dr. [Cláudio de Souza Baptista](https://www.linkedin.com/in/claudio-de-souza-baptista-07257721a/).
 
 
