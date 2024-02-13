@@ -91,7 +91,7 @@
 ## Etapa 04 - Apresentação - Jamile Santos do Vale
 - [ ] Slides e Conferência 
 ## Etapa Final - Conclusão - Todos os integrantes
-- [ ] O que pudemos apurar com o gráfico apresentado
+- [ ] Analise em relação ao gráfico apresentado
 - [ ] Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e em outros Tribunais de Contas.
 
 
