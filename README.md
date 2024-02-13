@@ -58,7 +58,8 @@
 - [ ] Plotagem de Gráfico
 ## Etapa 04 - Apresentação - Jamile Santos do Vale
 - [ ] Slides e Conferência 
-## Conclusões Finais - Todos os integrantes
+## Etapa Final - Conclusão - Todos os integrantes
+- [ ] O que pudemos apurar com o gráfico apresentado
 - [ ] Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e em outros Tribunais de Contas.
 
 
