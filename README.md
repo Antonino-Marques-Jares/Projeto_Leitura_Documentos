@@ -93,6 +93,11 @@
 > [!TIP]
 > Recomendamos o site [regular expressions 101](https://regex101.com/) para fazer testes de Expressão Regular
 
+> [!Caution]
+> Nesta faze de Expressões Regulares perceberemos que a falta de padrões no texto muitas vezes inviabilizam extrair as informações.
+>
+> Ao final do projeto falaremos das dificuldades encontradas.
+
 ## Etapa 02 - Wallison Santos Ferreira
 - [ ] Tokenização
 - [ ] N-Grams
