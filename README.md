@@ -19,7 +19,7 @@
 
 ## ✒️ Integrantes do Grupo
 >
-> [Antonino Marques Jares](https://www.linkedin.com/in/antonino-marques-jares-b447a734/) - TCE/AC
+> [<a href="https://www.linkedin.com/in/antonino-marques-jares-b447a734/" title="Linkedin de Antonino"><img id="logotipo" src="/static/media/amj.65b78b4ce6d2a24c9c92.jpg" alt="Foto de Antonino Marques Jares - Desenvolvedor" class="sc-kDvujY eOdMki"></a>] - TCE/AC
 >
 > [Jamile Santos do Vale](https://www.linkedin.com/in/jamille-santos-3a9b76183/?originalSubdomain=br)  - TCE/AC
 >
