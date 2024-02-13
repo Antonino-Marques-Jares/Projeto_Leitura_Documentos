@@ -43,7 +43,7 @@
  [<img src= "https://static.javatpoint.com/tutorial/regex/images/regex-tutorial.png" width="60" alt="Expressão Regular"/>](https://pypi.org/project/regex/) 
  [<img src= "https://icons.veryicon.com/png/o/miscellaneous/2022-complete-collection-of-alibaba-cloud/nlp-ke-headword-extraction-1.png" width="60" alt="Processamento de Linguagem Natural"/>](https://www.veryicon.com/) 
  
- **Python**, **Pandas**, **Expressão Regular** e **NLP**
+ **Python**, **Pandas**, **Expressão Regular** e **Processamento de Linguagem Natural**
 
 -----------
 ## 👥 Plataforma de código-fonte em nuvem para trabalho em grupo
