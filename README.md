@@ -71,8 +71,8 @@
  
  GitHub
 > [!NOTE]
-> Para evitarmos confitos no GitHub, cada módulo criou um arquivo csv ao final e cada participante ficou responsável por um módulo.
-> Desta forma fizemos um tipo de linha de montagem, onde cada módulo ficou independente de influência externas mas podendo acessar as informações do módulo anterior por um arquivo csv.
+> Para evitarmos confitos no GitHub, cada módulo criou um arquivo csv como resultado e definimos o responsável por cada módulo.
+> Desta forma fizemos um *tipo de linha de montagem*, onde cada módulo ficou independente de influência externas mas podendo acessar as informações do módulo anterior por um arquivo csv.
 > Este processo garante que não iremos ter conflitos em linhas de código e com isso ganhamos tempo na implementação.
 
 ## Etapa 01 - Antonino Marques Jares
