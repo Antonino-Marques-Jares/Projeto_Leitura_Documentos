@@ -42,13 +42,13 @@
  [<img src= "https://miro.medium.com/v2/resize:fit:720/format:webp/0*RWkQ0Fziw792xa0S" width="80" alt="Pandas"/>](https://pandas.pydata.org/) 
  [<img src= "https://static.javatpoint.com/tutorial/regex/images/regex-tutorial.png" width="60" alt="Expressão Regular"/>](https://pypi.org/project/regex/) 
  
- Python, Pandas e Expressão Regular
+ **Python, Pandas e Expressão Regular**
 
 -----------
 ## 👥 Plataforma de código-fonte em nuvem para trabalho em grupo
  [<img src= "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="60" alt="Expressão Regular"/>](https://github.com/) 
  
- GitHub
+ **GitHub**
 > [!IMPORTANT]
 > PDF's que estejam ainda em imagem podem ser lidos pela biblioteca Tesseract com Python, contudo optamos neste projeto dar continuidade com os Acórdãos que haviam sido scaneados corretamente.
 > 
@@ -111,7 +111,7 @@
 [<img src= "https://iconape.com/wp-content/files/sm/153655/png/brasao-do-estado-do-acre-logo.png" width="130" alt="Governo do Estado do Acre"/>](https://estado.ac.gov.br/)
 
 > [!IMPORTANT]
-> Agradecemos ao Tribunal de Contas do Estado do Acre, a Escola de Contas Conselheiro Alcides Dutra de Lima, a Universidade Federal da Paraíba e ao Governo do Estado do Acre que nos possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
+> Agradecemos ao **Tribunal de Contas do Estado do Acre**, a **Escola de Contas Conselheiro Alcides Dutra de Lima**, a **Universidade Federal da Paraíba** e ao **Governo do Estado do Acre** que nos possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
 
 -----------
 > [!NOTE]
