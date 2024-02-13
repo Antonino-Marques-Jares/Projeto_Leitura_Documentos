@@ -32,35 +32,39 @@
 > Todos os Acórdãos do TCE/AC utilizados neste projeto já foram publicados
 > 
 >-----------
-> ## 📦 Implantação
-> utilizaremos Python , PANDAS, Expressão Regular
-> 
-## A) Etapas do pré-processamento
 
-1) Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
-   A planilha terá as seguintes colunas ID, ACORDAO, DIA, CONTEUDO.
-2) Retirar NAN'S - utilizando o dataset do PANDAS
-3) Retirar registros que não foram encontrados Data do Acórdão e Número do Acórdão
-4) Corrigir o indice após a exclusão de registros para que este seja sequêncial e facilite o laço (for) na próxima etapa
-5) Retirar texto inicial e final no conteúdo, restringindo o texto que será objeto do estudo
+## 📦 Implantação
+> utilizaremos Python , PANDAS, Expressão Regular
+>
+>-----------
+
+## A) Etapas do pré-processamento
+>
+>1) Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
+>   A planilha terá as seguintes colunas ID, ACORDAO, DIA, CONTEUDO.
+>2) Retirar NAN'S - utilizando o dataset do PANDAS
+>3) Retirar registros que não foram encontrados Data do Acórdão e Número do Acórdão
+>4) Corrigir o indice após a exclusão de registros para que este seja sequêncial e facilite o laço (for) na próxima etapa
+>5) Retirar texto inicial e final no conteúdo, restringindo o texto que será objeto do estudo
    
 ## B) Normalização
-7) Transformar em letras minúsculas
-8) Remover pontuação e caracteres especiais do campo conteudo
+>7) Transformar em letras minúsculas
+>8) Remover pontuação e caracteres especiais do campo conteudo
 
 ## C) Tokenização
-9) dividir em palavras 
+>9) dividir em palavras 
 
 ## D) N-Grams
-10) Definir o número de GRAMS
+>10) Definir o número de GRAMS
 
 ## E) StopWords
-11) Retirar palavras não relevantes ao treinamento de máquina
+>11) Retirar palavras não relevantes ao treinamento de máquina
 
 ## F) Stemming e Lemmatization
-
+>
 ## G) Bag of Words
 >
+>-----------
 ## 🎁 Agradecimento
 > 1) Agradecemos nosso colega [Wisley de Oliveira Bandeira](https://www.linkedin.com/in/wisleybandeira/) por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto, sem isso não seria possível trabalharmos, estudar e ainda coletarmos os Acórdãos nescessários ao projeto.
 > 2) Agradecemos a todos os professores do curso *"Business Intelligence e Ciência de Dados"* por compartilhar seus conhecimentos, em especial nossos orientadores e o professor Dr. [Cláudio de Souza Baptista](https://www.linkedin.com/in/claudio-de-souza-baptista-07257721a/).
