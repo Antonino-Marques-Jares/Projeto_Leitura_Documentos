@@ -9,7 +9,7 @@
 >* Ao final apresentar um gráfico QUANTIDADE DE ACÓRDÃOS que tratem do assunto por ANO
 >-----------
 
-## 👨‍🏫 Professores
+## 👨‍🏫 Orientadores
 >
 > MSc. André Luiz Firmino Alves - Professor/Orientador
 >
