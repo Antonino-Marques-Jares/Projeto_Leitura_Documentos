@@ -3,7 +3,7 @@
 >
 >*OBJETIVO:* Fazer a leitura de Acórdãos do TCE/AC todos já publicados, extrair destes Acórdãos informações relativas a número do acórdão, data do julgamento. Criar a indexação destes Acórdãos para fazermos consultas nestes Acórdãos.
 >
->Integrantes do Grupo
+>## ✒️ Integrantes do Grupo
 >-----------
 >
 >Antonino Marques Jares - TCE/AC
