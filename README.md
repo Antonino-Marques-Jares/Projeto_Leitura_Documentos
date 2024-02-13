@@ -70,8 +70,8 @@
  [<img src= "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="60" alt="Expressão Regular"/>](https://github.com/) 
  
  GitHub
-
-Obs.: Para evitarmos confitos no github, cada módulo criou um arquivo csv ao final e cada participante ficou responsável por um módulo, desta forma fizemos um tipo de linha de montagem, onde cada módulo ficou independente de influência externas.
+> [!NOTE]
+> Obs.: Para evitarmos confitos no github, cada módulo criou um arquivo csv ao final e cada participante ficou responsável por um módulo, desta forma fizemos um tipo de linha de montagem, onde cada módulo ficou independente de influência externas.
 
 ## Etapa 01 - Antonino Marques Jares
 - [X] Fazer a leitura dos Acórdãos que estão em pdfs e exportar para uma planilha xls.
