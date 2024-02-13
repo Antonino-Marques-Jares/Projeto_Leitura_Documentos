@@ -96,7 +96,7 @@
 - [ ] Plotagem de Gráfico apresentando QUANTIDADE DE ACÓRDÃOS que tenham o ASSUNTO (**filtro**) por ANO
 ## Etapa 04 - Apresentação - Jamile Santos do Vale:
 - [ ] Conferência
-- [ ] Slides
+- [ ] Slides da apresentação
 ## Etapa Final - Conclusão - Todos os integrantes:
 - [ ] Analise em relação ao gráfico apresentado
 - [ ] Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e em outros Tribunais de Contas.
