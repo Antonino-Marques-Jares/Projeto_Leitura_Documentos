@@ -55,7 +55,7 @@
  [<img src= "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="60" alt="Expressão Regular"/>](https://github.com/) 
  
  GitHub
-> [!IMPORTTANT]
+> [!IMPORTANT]
 > PDF's que estejam ainda em imagem podem ser lidos pela biblioteca Tesseract com Python, contudo optamos neste projeto dar continuidade com os Acórdãos que haviam sido scaneados corretamente.
 > 
 > Tendo em vista que ainda tinhamos muitos Acórdãos a analisar.
