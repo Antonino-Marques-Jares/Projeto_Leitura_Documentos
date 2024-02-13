@@ -64,7 +64,8 @@
 > 1) Agradecemos nosso colega [Wisley de Oliveira Bandeira](https://www.linkedin.com/in/wisleybandeira/) por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto, sem isso não seria possível trabalharmos, estudar e ainda coletarmos os Acórdãos nescessários ao projeto.
 > 2) Agradecemos a todos os professores do curso *"Business Intelligence e Ciência de Dados"* por compartilhar seus conhecimentos, em especial nossos orientadores e o professor Dr. [Cláudio de Souza Baptista](https://www.linkedin.com/in/claudio-de-souza-baptista-07257721a/).
 > 
-[<img src= "https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png" width="125"/>](https://tceac.tc.br/site/), a
+[<img src= "https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png" width="125"/>](https://tceac.tc.br/site/)
+[<img src= "[https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png](https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png)" width="125"/>](https://www.ufpb.br/)
 [Universidade Federal da Paraíba](https://www.ufpb.br/) e a
 [Escola de Contas Conselheiro Alcides Dutra de Lima](https://moodle.tceac.tc.br/) que possibilitaram o curso *"Business Intelligence e Ciência de Dados"*
 > 
