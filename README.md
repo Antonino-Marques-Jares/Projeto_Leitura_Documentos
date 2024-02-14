@@ -67,19 +67,23 @@
 > - [X] Normalização - Remover pontuação e caracteres especiais do campo conteudo
 
 > [!IMPORTANT]
+> 
 > PDF's que estejam ainda em imagem podem ser lidos pela biblioteca Tesseract com Python, contudo, optamos neste projeto dar continuidade com os Acórdãos restantes.
 > 
 > Tendo em vista que temos Acórdãos suficientes que conseguimos fazer a leitura do texto e nosso foco no projeto está na analise NLP.
 
 > [!Caution]
+> 
 > A ordem em que é executado as Expressões Lineares é muito importante.
 >
 > Esta etapa deve ser bem planejada, para conseguir o melhor resultado.
 
 > [!TIP]
+> 
 > Recomendamos o site [regular expressions 101](https://regex101.com/) para fazer testes de Expressão Regular
 
 > [!IMPORTANT]
+> 
 > Nesta fase de Expressões Regulares perceberemos que a falta de padrões no texto muitas vezes inviabilizam ou dificultam a extração das informações.
 >
 > Ao final do projeto falaremos das dificuldades encontradas.
@@ -112,10 +116,12 @@
 [<img src= "https://iconape.com/wp-content/files/sm/153655/png/brasao-do-estado-do-acre-logo.png" width="130" alt="Governo do Estado do Acre"/>](https://estado.ac.gov.br/)
 
 > [!IMPORTANT]
+> 
 > Agradecemos ao **Tribunal de Contas do Estado do Acre**, a **Escola de Contas Conselheiro Alcides Dutra de Lima**, a **Universidade Federal da Paraíba** e ao **Governo do Estado do Acre** que nos possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
 
 -----------
 > [!NOTE]
+> 
 > Módulos do Curso "Business Intelligence e Ciência de Dados"
 >   - INTRODUÇÃO A BI E CIÊNCIA DE DADOS 
 >   - INTRODUÇÃO À PROGRAMAÇÃO COM PYTHON 
