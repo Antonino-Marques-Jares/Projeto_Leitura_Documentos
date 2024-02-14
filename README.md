@@ -2,8 +2,7 @@
 
 > ## 🎓 Trabalho Final do Curso: 
 > - Business Intelligence e Ciência de Dados
-
-[.]("linha.png")
+[<img src= "linha.png" width="250" alt="Linha"/>](https://www.python.org/)
 
 > ## 🚀 Objetivo:
 > - [x] Fazer a leitura de Acórdãos do Tribunal de Contas do Estado do Acre, que inicialmente encontram-se em PDF's
