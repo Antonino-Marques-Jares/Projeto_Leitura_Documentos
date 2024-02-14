@@ -2,7 +2,7 @@
 
 > ## 🎓 Trabalho Final do Curso: 
 > - Business Intelligence e Ciência de Dados
-
+[<img src= "linha.png" width="60" alt="Expressão Regular"/>](https://pt.pngtree.com/) 
 > ## 🚀 Objetivo:
 > - [x] Fazer a leitura de Acórdãos do Tribunal de Contas do Estado do Acre, que inicialmente encontram-se em PDF's
 > - [x] Extrair informações relativas a número do acórdão, data do julgamento, e conteúdo do Acórdão.
