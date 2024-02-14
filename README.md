@@ -120,7 +120,7 @@
 > Agradecemos ao **Tribunal de Contas do Estado do Acre**, a **Escola de Contas Conselheiro Alcides Dutra de Lima**, a **Universidade Federal da Paraíba** e ao **Governo do Estado do Acre** que nos possibilitaram o curso *"Business Intelligence e Ciência de Dados"* (2023-2024).
 
 -----------
-> [!SUCCESS]
+> [!NOTE]
 > 
 > Módulos do Curso "Business Intelligence e Ciência de Dados"
 >   - INTRODUÇÃO A BI E CIÊNCIA DE DADOS 
