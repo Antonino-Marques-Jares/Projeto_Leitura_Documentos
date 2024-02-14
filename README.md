@@ -47,7 +47,7 @@
 >  [<img src= "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="60" alt="Expressão Regular"/>](https://github.com/) 
 >  
 >  **GitHub**
->
+
 > [!TIP]
 > Para evitarmos confitos no GitHub, cada módulo criou um arquivo csv como resultado e **definimos o responsável por cada módulo**.
 > 
