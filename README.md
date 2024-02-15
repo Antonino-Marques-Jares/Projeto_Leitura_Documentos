@@ -101,7 +101,7 @@
 > - [ ] Slides da apresentação
 > ## Etapa Final - Conclusão com todos os integrantes:
 > - [ ] Analise em relação ao gráfico apresentado
-> - [ ] Fazer sugestões na padronização dos Acórdãos, com o objetivo a contribuir na extração futura de informações em Acórdãos do TCE/AC e em outros Tribunais de Contas.
+
 
 > ## 🎁 Nosso agradecimento pessoal:
 >  1) Agradecemos nosso colega [Wisley de Oliveira Bandeira](https://www.linkedin.com/in/wisleybandeira/) por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto, sem isso não seria possível trabalharmos, estudar e ainda coletarmos os Acórdãos nescessários ao projeto.
