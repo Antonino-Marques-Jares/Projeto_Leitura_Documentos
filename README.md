@@ -1,4 +1,3 @@
-CSS: myStyle.css
 
 # Projeto Leitura de Documentos
 
