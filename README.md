@@ -110,8 +110,8 @@
 
  
 > ## 🎁 Nosso agradecimento as Instituções:
-$${\color{black}[<img src= "[https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png](https://www.paqtc.org.br/images/logo.png)" width="150" alt="Parque Tecnológico da Paraíba"/>](https://www.paqtc.org.br/images/logo.png)}$$
-
+$\textcolor{yellow}{[<img src= "[https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png](https://www.paqtc.org.br/images/logo.png)" width="150" alt="Parque Tecnológico da Paraíba"/>](https://www.paqtc.org.br/images/logo.png)}$
+[<img src= "[https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png](https://www.paqtc.org.br/images/logo.png)" width="150" alt="Parque Tecnológico da Paraíba"/>](https://www.paqtc.org.br/images/logo.png)
 [<img src= "https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png" width="150" alt="Tribunal de Contas do Estado do Acre"/>](https://tceac.tc.br/site/)
 [<img src= "https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png" width="110" alt="Universidade Federal da Paraíba"/>](https://www.ufpb.br/)
 [<img style="color:blue" src= "https://moodle.tceac.tc.br/pluginfile.php/1/theme_adaptable/favicon/1706543109/WhatsApp%20Image%202020-01-30%20at%2009.49.09.jpeg" width="130" alt="Escola de Contas Conselheiro Alcides Dutra de Lima"/>](https://moodle.tceac.tc.br/)
