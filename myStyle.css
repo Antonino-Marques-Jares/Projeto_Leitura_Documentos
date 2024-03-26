@@ -1,4 +1,5 @@
-a{
+.imagem{
     color: #333;
-    background-color: red;
+    background-color: #F0FFF0;
+    width: 150px;
 }
