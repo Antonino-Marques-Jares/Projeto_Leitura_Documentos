@@ -115,7 +115,7 @@
 [<img src= "https://raw.githubusercontent.com/Antonino-Marques-Jares/Projeto_Leitura_Documentos/main/Parque_Tecnologico_UFPB...%20(1).png" width="300px" alt="Parque Tecnológico da Paraíba"/>](https://www.paqtc.org.br/index.php)
 [<img src= "https://tceac.tc.br/site/wp-content/uploads/2023/05/LOGO-VERSAO-PREFERENCIAL.png" width="200px" alt="Tribunal de Contas do Estado do Acre"/>](https://tceac.tc.br/site/)
 [<img src= "https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png" width="150px" alt="Universidade Federal da Paraíba"/>](https://www.ufpb.br/)
-[<img src= "https://raw.githubusercontent.com/Antonino-Marques-Jares/Projeto_Leitura_Documentos/main/Logo%20EsCon.png" width="200px" alt="Escola de Contas" style="background-color:#2e3136"/>](https://moodle.tceac.tc.br/)
+[<img src= "https://raw.githubusercontent.com/Antonino-Marques-Jares/Projeto_Leitura_Documentos/main/Logo%20EsCon.png" width="180px" alt="Escola de Contas" style="background-color:#2e3136"/>](https://moodle.tceac.tc.br/)
 
 
 > [!IMPORTANT]
