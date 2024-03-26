@@ -28,7 +28,7 @@
 > ## ✒️ Integrantes do Grupo:
 >   - [Antonino Marques Jares](https://www.linkedin.com/in/antonino-marques-jares-b447a734/)
 >   - [Jamile Santos do Vale](https://www.linkedin.com/in/jamille-santos-3a9b76183/?originalSubdomain=br)  - TCE/AC
->   - José Coca Carrascosa Neto - MP/AC
+>   - [José Coca Carrascosa Neto](https://www.linkedin.com/in/jose-coca-73182271/) - MP/AC
 >   - [Wallison Santos Ferreira](https://www.linkedin.com/in/wallisonferreira09/) - MP/AC
 
 
