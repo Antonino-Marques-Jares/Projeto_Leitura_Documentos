@@ -106,7 +106,7 @@
 
 > ## 🎁 Nosso agradecimento pessoal:
 >  1) Agradecemos nosso colega [Wisley de Oliveira Bandeira](https://www.linkedin.com/in/wisleybandeira/) por ter conseguido os PDF's dos Acórdãos que possibilitou sairmos na frente neste projeto, sem isso não seria possível trabalharmos, estudar e ainda coletarmos os Acórdãos nescessários ao projeto.
->  2) Agradecemos a todos os professores do curso *"Business Intelligence e Ciência de Dados"* por compartilharem seus conhecimentos, em especial à nossos orientadores André Luiz Firmino Alves, [Geraldo Braz Júnior](https://www.linkedin.com/in/geraldo-braz-junior-4821778b/)  e ao professor Dr. [Cláudio de Souza Baptista](https://www.linkedin.com/in/claudio-de-souza-baptista-07257721a/), que sempre foram muito atenciosos.
+>  2) Agradecemos a todos os professores do curso *"Business Intelligence e Ciência de Dados"* por compartilharem seus conhecimentos, em especial à nossos orientadores [André Luiz Firmino Alves](http://lattes.cnpq.br/5729800124276465), [Geraldo Braz Júnior](https://www.linkedin.com/in/geraldo-braz-junior-4821778b/)  e ao professor Dr. [Cláudio de Souza Baptista](https://www.linkedin.com/in/claudio-de-souza-baptista-07257721a/), que sempre foram muito atenciosos.
 
 
  
